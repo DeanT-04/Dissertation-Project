@@ -57,7 +57,7 @@ Replace the image at the top (`./images/final-model.png`) with your final assemb
 
 ## 📬 Contact
 
-If you're curious about the project, want to collaborate or are just another plant tech geek, feel free to reach out via [LinkedIn](www.linkedin.com/in/dean-thornton-598baa252) or drop me a message here.
+If you're curious about the project, want to collaborate or are just another plant tech geek, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/dean-thornton-598baa252) or drop me a message here.
 
 ---
 
